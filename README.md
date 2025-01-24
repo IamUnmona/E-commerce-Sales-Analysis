@@ -1,5 +1,5 @@
 # E-commerce Sales Analysis
-
+https://github.com/IamUnmona/E-commerce-Sales-Analysis/blob/main/E-commerce.png
 ## Introduction
 
 This project offers a detailed visual analysis of the Year-To-Date (YTD) sales performance for an e-commerce business. It combines various data visualizations to monitor sales, profits, order quantities, and market dynamics across diverse product categories and geographical markets. This dashboard is a pivotal tool for stakeholders to assess the health of the business, identify trends, and make informed decisions that drive growth and efficiency.
