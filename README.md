@@ -43,3 +43,4 @@ This dashboard not only serves as a tool for visualizing data but also acts as a
 
 ## Tools and Technologies
 - Tableau
+- MS Excel
